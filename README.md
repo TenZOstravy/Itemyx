@@ -352,7 +352,7 @@ You can also request new features or improvements.
 
 Support is available on the project Discord server.
 
-Discord: (Insert your Discord link here)
+Discord: https://discord.com/invite/NAx8HHFN2g
 
 
 ---
