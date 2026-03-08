@@ -374,7 +374,7 @@ If you enjoy the plugin and want to support development, you can buy me a coffee
 
 Your support helps keep the project active and allows new features to be developed.
 
-Buy Me a Coffee: (Insert link here)
+Buy Me a Coffee: https://buymeacoffee.com/dreammister2
 
 
 ---
